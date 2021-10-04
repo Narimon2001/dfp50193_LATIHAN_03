@@ -113,4 +113,4 @@ if ($ibubapa == 'ibu' xor $ibubapa = 'bapa') {
     ?>
 </h2>
 </body>
-</html>
+</html> 
